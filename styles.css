@@ -69,6 +69,16 @@
 }
 
 
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer>a{
+    color: white;
+    padding: 20px;
+}
 
 
 
