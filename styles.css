@@ -38,6 +38,7 @@
     font-style: italic;
     margin: 0;
     min-height: 100vh;
+    color: #fff;
 }
 
 .about>h3{
@@ -49,17 +50,24 @@
     background-color: dimgray;
     margin: 0;
     min-height: 100vh;
+    color: #fff;
 }
 
 .skills>h3{
     padding-top: 100px;
 }
 
+.pros{
+    flex-wrap: wrap;
+    padding-top: 30px;
+    
+}
 
 .pros>h4{
     padding-left: 100px;
     
 }
+
 
 
 
