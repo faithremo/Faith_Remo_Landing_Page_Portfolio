@@ -5,6 +5,7 @@
     position: relative;
     background-color: mediumblue;
 }
+
 .navbar>ul{
     display: flex;
     gap: 6em;
@@ -51,7 +52,7 @@
 }
 
 .skills>h3{
-    padding-top: px;
+    padding-top: 100px;
 }
 
 
