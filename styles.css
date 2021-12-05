@@ -1,0 +1,10 @@
+.nav>ul{
+    display: flex;
+    gap: 6em;
+    float: right;
+    padding-right: 200px;
+}
+
+.nav>ul>li{
+    list-style: none;
+}
