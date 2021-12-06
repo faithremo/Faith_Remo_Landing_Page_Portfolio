@@ -58,14 +58,27 @@
 }
 
 .pros{
-    flex-wrap: wrap;
     padding-top: 30px;
     
 }
 
-.pros>h4{
+.pros>h3{
     padding-left: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+    text-decoration: underline;
     
+}
+
+.p_element{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.p_element>p{
+    align-items: center;
+    padding-top: 100px;
 }
 
 
